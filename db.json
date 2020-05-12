@@ -1,38 +1,38 @@
 [
     {
-      "id": 1,
-      "num": "001",
-      "name": "BAO",
-      "img": "https://tengritravel.kz/userdata/news/2018/news_342441/thumb_m/photo_246517.jpg",
-      "description": "The Big Almaty Lake is one of the most picturesque mountain lakes located in the Zailiysky Alatau in the gorge of the Big Almaty River at an altitude of 2510 m above sea level. The lake is very beautiful, especially when its blue surface is absolutely calm and the sky and surrounding mountains are reflected in it. Three main peaks rise above the lake, which can be seen from the northern end of the dam.",
-      "price":"5000",
+      "idt": 1,
+      "numt": "001",
+      "namet": "BAO",
+      "imgt": "https://tengritravel.kz/userdata/news/2018/news_342441/thumb_m/photo_246517.jpg",
+      "descriptiont": "The Big Almaty Lake is one of the most picturesque mountain lakes located in the Zailiysky Alatau in the gorge of the Big Almaty River at an altitude of 2510 m above sea level. The lake is very beautiful, especially when its blue surface is absolutely calm and the sky and surrounding mountains are reflected in it. Three main peaks rise above the lake, which can be seen from the northern end of the dam.",
+      "pricet":"5000",
       "comment":"good"
     },
     {
-      "id": 2,
-      "num": "002",
-      "name": "Charyn Canyon",
-      "img": "https://www.journalofnomads.com/wp-content/uploads/2017/10/Charyn-Canyon-Featured-photo.jpg",
-      "description": "Charyn Canyon is one of the most unique objects of nature, where, under the influence of millennia-old processes of weathering of sedimentary rocks, the initial shape of the relief took the shape of isolated rocks, columns and towers. Charyn Canyon is a natural monument composed of sedimentary rocks, whose age is about 12 million years.",
-      "price":"8500",
+      "idt": 2,
+      "numt": "002",
+      "namet": "Charyn Canyon",
+      "imgt": "https://www.journalofnomads.com/wp-content/uploads/2017/10/Charyn-Canyon-Featured-photo.jpg",
+      "descriptiont": "Charyn Canyon is one of the most unique objects of nature, where, under the influence of millennia-old processes of weathering of sedimentary rocks, the initial shape of the relief took the shape of isolated rocks, columns and towers. Charyn Canyon is a natural monument composed of sedimentary rocks, whose age is about 12 million years.",
+      "pricet":"8500",
       "comment":"good"
     },
     {
-      "id": 3,
-      "num": "003",
-      "name": "Kolsai and Kaindy Lake",
-      "img": "https://thesandyfeet.com/wp-content/uploads/2018/01/thesandyfeet-kazakhstan-kolsaikaindy-08.jpg",
-      "description": "Kolsai lakes - one of the most beautiful places of Kazakh nature, lakes are called the pearl of the Northern Tien Shan. They are located at heights of 1800, 2250 and 2700 meters above sea level. The warm season lasts from April to the end of September. Kaindy Lake is one of the mysterious places of the foothills at an altitude of 2000 m above sea level among fir trees, surrounded by mountain peaks. It arose about 100 years ago as a result of the collapse of a huge mass of rock that blocked the gorge with a natural dam. The lake is located 12 km east of the first Kolsaysky lake. The lake is about 400 m long and reaches a depth of almost 30 m.",
-      "price":"15000",
+      "idt": 3,
+      "numt": "003",
+      "namet": "Kolsai and Kaindy Lake",
+      "imgt": "https://thesandyfeet.com/wp-content/uploads/2018/01/thesandyfeet-kazakhstan-kolsaikaindy-08.jpg",
+      "descriptiont": "Kolsai lakes - one of the most beautiful places of Kazakh nature, lakes are called the pearl of the Northern Tien Shan. They are located at heights of 1800, 2250 and 2700 meters above sea level. The warm season lasts from April to the end of September. Kaindy Lake is one of the mysterious places of the foothills at an altitude of 2000 m above sea level among fir trees, surrounded by mountain peaks. It arose about 100 years ago as a result of the collapse of a huge mass of rock that blocked the gorge with a natural dam. The lake is located 12 km east of the first Kolsaysky lake. The lake is about 400 m long and reaches a depth of almost 30 m.",
+      "pricet":"15000",
       "comment":"good"
     },
     {
-      "id": 4,
-      "num": "004",
-      "name": "Furmanov peak swing",
-      "img": "https://harpersbazaar.kz/wp-content/uploads/2019/04/IMG_4904-1024x767.jpg",
-      "description": "The most popular peak among mountaineers and hikers is Furmanov peak - 3000m. The route passes through the Kimasar gorge, or along the ridge on the left side of the gorge.The route along the ridge passes first through the forest, then goes to an open area, passing through the so-called “Swings”, where there really are swings in the mountains, and people swing on them. By the way, this route is very popular in winter as well. here they like to ride on ice, skiing, snowboarding.",
-      "price":"6000",
+      "idt": 4,
+      "numt": "004",
+      "namet": "Furmanov peak swing",
+      "imgt": "https://harpersbazaar.kz/wp-content/uploads/2019/04/IMG_4904-1024x767.jpg",
+      "descriptiont": "The most popular peak among mountaineers and hikers is Furmanov peak - 3000m. The route passes through the Kimasar gorge, or along the ridge on the left side of the gorge.The route along the ridge passes first through the forest, then goes to an open area, passing through the so-called “Swings”, where there really are swings in the mountains, and people swing on them. By the way, this route is very popular in winter as well. here they like to ride on ice, skiing, snowboarding.",
+      "pricet":"6000",
       "comment":"good"
     }
 ]
