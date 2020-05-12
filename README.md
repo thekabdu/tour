@@ -1,3 +1,3 @@
 # tour
-https://my-json-server.typicode.com/thekabdu/db
+https://my-json-server.typicode.com/thekabdu/tour
 
